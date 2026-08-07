@@ -1,0 +1,13 @@
+/* Add CSS Styling */
+
+button {
+    font-size:28px;
+    font-family:"Sans Comic";
+    background-color:black;
+    color:white;
+}
+
+.button-2 {
+    color:black;
+    background-color:yellow;
+}
