@@ -1,0 +1,21 @@
+/* Add CSS Styling */
+
+p {
+    background-color:pink;
+    font-size:18px;
+}
+
+.class {
+    font-size:28px;
+}
+
+#first_id {
+    color: blue;
+    font-size:54px;
+}
+
+#sec_id {
+    background-color:limegreen;
+    font-weight:bold;
+    font-size:28px;
+}
